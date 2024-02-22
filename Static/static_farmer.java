@@ -25,6 +25,7 @@ class farmer
     td =scan.nextFloat();
     // ri=8.5f; // both sc1 object and sc2 object used
     
+    
  }
 
  void cal()
