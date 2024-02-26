@@ -23,7 +23,8 @@ class Student1 // extend object //parrent class
 
     public Student1()  //zero parametter
     {
-        super(); // first line of constactor you write or not  behind the seen compiler will generate super methode.
+        // super();  // first line of constactor you write or not  behind the seen compiler will generate super methode.
+        this("rohan",29);
         System.out.println("zero constarctor");
         name="sonu";
         age=18;
@@ -31,7 +32,7 @@ class Student1 // extend object //parrent class
 
     public Student1(String name) //one parameter
     {
-        this("Rohan",22);
+        this();
         this.name=name;
         age=10;
     }
@@ -62,8 +63,6 @@ public class constructor_4
 
         Student1 std1=new Student1("Akash");
         std1.show();
-
-        Student1 std2=new Student1("Subha" ,28 );
-        std2.show();
+      
     }
 }
