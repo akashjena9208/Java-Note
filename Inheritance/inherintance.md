@@ -24,3 +24,17 @@ public class inheritance_1
     }
 }
 
+
+//..........................MORE ON IN HERITANCE.............................................
+ 1-PRIVATE MEMBER  can not inheritance.
+ 2-Constrctor can not inheritance.
+
+ //....................................
+  Types of Inheritance
+ * Single level inheritance:- one cls another class inherit
+ * multilavel inheritance:-
+ * Herichical Inheritance
+ * multipule Inhritance
+
+
+
