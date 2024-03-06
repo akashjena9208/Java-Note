@@ -8,7 +8,7 @@ package Inheritance;
 
 // Single level
 class Animal
-{
+{                    
     public void sleep()
     {
         System.out.println("Animal class  Tiger clss inhert");
