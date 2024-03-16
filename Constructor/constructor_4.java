@@ -1,5 +1,5 @@
 package Constructor;
-/* super():- one constractor another constractor call 
+/*super():- one constractor another constractor call 
 *super() :-call parent class
  this():-call same class
 1. The first line inside the constructor can be super()or this().
